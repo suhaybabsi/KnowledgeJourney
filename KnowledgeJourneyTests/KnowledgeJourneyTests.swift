@@ -29,7 +29,7 @@ class KnowledgeJourneyTests: XCTestCase {
         
         
         self.measure {
-            for i in 0 .. 100 {
+            for i in 0 ... 100 {
                 print("Hello, World !")
             }
         }
