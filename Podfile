@@ -6,6 +6,6 @@ target 'KnowledgeJourney' do
   use_frameworks!
 
   # Pods for KnowledgeJourney
-  # pod 'Alamofire'
+  pod 'Alamofire'
 
 end
