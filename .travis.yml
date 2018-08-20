@@ -1,1 +1,4 @@
 language: objective-c
+xcode_project: KnowledgeJourney.xcodeproj # path to your xcodeproj folder
+xcode_scheme: KnowledgeJourneyTests
+xcode_destination: platform=iOS Simulator,OS=9.0,name=iPhone 6
