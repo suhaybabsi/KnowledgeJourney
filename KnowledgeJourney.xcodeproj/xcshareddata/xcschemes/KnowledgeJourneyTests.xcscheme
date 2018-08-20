@@ -42,10 +42,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4D6149569065818DBB8333E035A6208B"
-            BuildableName = "Pods_KnowledgeJourney.framework"
-            BlueprintName = "Pods-KnowledgeJourney"
-            ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            BlueprintIdentifier = "C588592C1D7990E500890AD5"
+            BuildableName = "KnowledgeJourney.app"
+            BlueprintName = "KnowledgeJourney"
+            ReferencedContainer = "container:KnowledgeJourney.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -61,15 +61,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4D6149569065818DBB8333E035A6208B"
-            BuildableName = "Pods_KnowledgeJourney.framework"
-            BlueprintName = "Pods-KnowledgeJourney"
-            ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            BlueprintIdentifier = "C588592C1D7990E500890AD5"
+            BuildableName = "KnowledgeJourney.app"
+            BlueprintName = "KnowledgeJourney"
+            ReferencedContainer = "container:KnowledgeJourney.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
